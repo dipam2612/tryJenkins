@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite">
+	<test name="testing testNG">
+		<classes>
+			<class name="testNG.NewTest01" />
+			<class name="testNG.NewTest02" />
+			<class name="testNG.NewTest03" />
+			<class name="testNG.NewTest04" />
+			<class name="testNG.ActiTimeV" />
+			<class name="testNG.Para04" />
+			<class name="testNG.Para05" />
+			<class name="testNG.Para06" />
+			<class name="testNG.ActiTimeLogin" />
+			
+		</classes>
+	</test>
+</suite>
